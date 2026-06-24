@@ -1,0 +1,24 @@
+# Ortam değişkenleri (ŞİFRELER - asla yükleme!)
+.env
+backend/.env
+frontend/.env
+
+# Python sanal ortamı
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# Build çıktıları
+dist/
+build/
+frontend/dist/
+
+# Editör / sistem dosyaları
+.vscode/
+.DS_Store
+*.log
