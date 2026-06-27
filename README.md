@@ -102,4 +102,3 @@ Seed verisiyle birlikte gelen hazır hesaplar:
 
 ---
 
-Bu proje öğrenme ve portföy amacıyla geliştirilmiştir.
